@@ -122,6 +122,9 @@ main {
     width: 100%;
     max-width:60rem;
 }
+.caja:hover{
+    box-shadow: 0 0.1rem 0.4rem 0 rgb(197, 197, 197) ;
+}
 .caja span{
     color:#909399;
     font-size: 1.5rem;
